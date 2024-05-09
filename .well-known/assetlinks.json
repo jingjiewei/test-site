@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.octopass.app.DEV",
+            "sha256_cert_fingerprints": [
+                "5D:5B:30:0E:93:E7:01:46:37:2E:AC:05:C4:85:01:9E:47:BA:82:9D:DB:2D:3B:6D:B1:D8:FD:7A:A8:C1:62:B0"
+            ]
+        }
+    }
+]
